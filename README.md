@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1>Hi, I'm Jai Vardhan!<br>Aspiring Cybersecurity Professional</h1> 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>📄 Cybersecurity Projects:</h2>
+- [Google Cybersecurity](https://coursera.org/share/710743272ba8079c0b03af62622d1077)
 
 <!--
 **Jaivardhan55/Jaivardhan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
