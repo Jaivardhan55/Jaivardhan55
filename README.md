@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jai Vardhan!<br>Aspiring Engineer</h1> 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 <h2>📄 Cybersecurity Certificates:</h2>
 - [Google Cybersecurity](https://coursera.org/share/710743272ba8079c0b03af62622d1077)
 
