@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jai Vardhan!<br>Aspiring Cybersecurity Professional</h1> 
+<h1>Hi, I'm Jai Vardhan!<br>Aspiring Engineer</h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h2>📄 Cybersecurity Certificates:</h2>
