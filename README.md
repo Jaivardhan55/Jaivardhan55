@@ -1,20 +1,75 @@
-<h1>Hi, I'm Jai Vardhan!<br>Aspiring Engineer</h1> 
+# Tammina Jai Vardhan
 
-<h2>👨‍💻 Projects:</h2>
-<h2>📄 Cybersecurity Certificates:</h2>
-- [Google Cybersecurity](https://coursera.org/share/710743272ba8079c0b03af62622d1077)
+📍 Visakhapatanam, AP  
+📧 jaivardan55@gmail.com | 
+[GitHub](https://github.com/Jaivardhan55) | [LinkedIn](https://linkedin.com/in/jaivardhan55)
 
-<!--
-**Jaivardhan55/Jaivardhan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Software Development Engineer with a solid foundation in computer science and a cybersecurity background. Passionate about building scalable, robust applications and constantly learning new technologies. Seeking to solve real-world problems with clean, efficient code.
+
+---
+
+## Skills
+
+- **Programming Languages:** Python, Java (Basics), C (Basics)  
+- **Web Technologies:** HTML (Basics), CSS (Basics), JavaScript (Basics)  
+- **Tools & Frameworks:** GitHub, VS Code, Rasa (Chatbot Framework)  
+- **Core Concepts:** Data Structures & Algorithms, OOP, SQL/Databases  
+- **Cybersecurity:** Risk Assessment, Mitigation, Alert Monitoring & Response  
+
+---
+
+## Projects
+
+### AI Chatbot using Rasa Framework  
+[github.com/jai/Chatbot](https://github.com/jai/Chatbot)  
+- Modular chatbot with custom actions for time, math, weather, and personalized greetings  
+- Built NLU pipelines, slot tracking, and integrated real-time weather API  
+- Technologies: Python, Rasa, NLU, Slot Management, Custom Actions  
+
+### Basic KeyLogger  
+[github.com/jai/keylogger](https://github.com/jai/keylogger)  
+- Automated keylogger capturing keystrokes to a log file  
+- Tools: Python, pynput.keyboard  
+
+---
+
+## Education
+
+**Gitam University** — B.Tech in Computer Science and Engineering (Cybersecurity)  
+*Sept 2022 – May 2026*  
+- GPA: 8.12/10.0  
+- Relevant Coursework: Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, Web Development  
+
+---
+
+## Experience
+
+**Web Application Security Intern** — Amunik  
+*April 2025 – June 2025*  
+- Conducted web app security testing on AWS-hosted site  
+- Identified misconfigurations and validated protections (rate limiting, etc.)  
+- Used Burp Suite, FFUF, Nikto, manual recon & analysis  
+- Delivered remediation-focused reports covering OWASP Top 10 risks  
+
+---
+
+## Certifications
+
+- NPTEL IoT Introduction – IIT Kharagpur (Apr 2025)  
+- Palo Alto Cybersecurity Virtual Internship – EduSkills (Apr–Jun 2025)  
+- Google Cybersecurity Professional Certificate – Coursera (Aug–Dec 2024)  
+
+---
+
+## Soft Skills & Interests
+
+- Problem-solving, analytical thinking, communication, teamwork, adaptability, attention to detail  
+- Interests: Open source, scalable systems, system-level programming, cybersecurity, ethical hacking, fast typing, language learning (Duolingo - JP streak 1440+)
+
+---
+
+*Feel free to connect or check out my projects!*
